@@ -1,0 +1,15 @@
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\RLNETConsoleGame.exe.config
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\RLNETConsoleGame.exe
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\RLNETConsoleGame.pdb
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\OpenTK.dll
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\RLNET.dll
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\RogueSharp.dll
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\OpenTK.xml
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\obj\Debug\RLNETConsoleGame.csproj.AssemblyReference.cache
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\obj\Debug\RLNETConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\obj\Debug\RLNETConsoleGame.exe
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\obj\Debug\RLNETConsoleGame.pdb
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\System.Drawing.Common.dll
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\System.Drawing.Common.pdb
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\bin\Debug\System.Drawing.Common.xml
+C:\Users\bsbaq\source\repos\RLNETConsoleGame\obj\Debug\RLNETCon.19B11AB4.Up2Date
